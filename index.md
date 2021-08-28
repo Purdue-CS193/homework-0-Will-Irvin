@@ -50,7 +50,7 @@ _This should be italic_
 [Insert Link here](youtube.com)
 
 
-# Will Irvin's First CS 193
+# Will Irvin's First CS 193 Homework
 
 - No textbook!
 - Easy homework/grading
