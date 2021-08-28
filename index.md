@@ -35,3 +35,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+**This should be bold**
+_This should be italic_
+'This should be code'
+
+1. List 1
+2. List 2
+
+- List -
+- List --
+
+# This should be a title
+[Insert Link here](youtube.com)
