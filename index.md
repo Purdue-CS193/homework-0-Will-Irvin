@@ -48,3 +48,11 @@ _This should be italic_
 
 # This should be a title
 [Insert Link here](youtube.com)
+
+
+# Will Irvin's First CS 193
+
+- No textbook!
+- Easy homework/grading
+- No midterms/finals
+- Chill vibes
